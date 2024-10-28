@@ -1,4 +1,4 @@
-# test-repo
+# test-repository
 
 PR!
  one two three...four?
